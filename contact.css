@@ -10,7 +10,6 @@ body {
 }
 
 /* tille */
-
 span.streched-text{
     color: #F47522;
     margin-right: 15px;
@@ -21,41 +20,11 @@ span.streched-text{
     transform: scale(5,1);
     display: inline-block;
 }
-
 h2{
     margin-top: 50px;
     margin-bottom: 50px;
     text-align: center;
 }
-/* h1 {
-    display: flex;
-    width: 100%;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    font-weight:20px;
-}
-
-h1:before,
-h1:after {
-    content: '';
-    border-top: 2px solid;
-    margin: 0 20px 0 0;
-    flex: 1 0 20px;
-    color: #F47522;
-} */
-
-/* h1:after {
-    margin: 0 0 0 20px;
-} */
-
-
-/* h1:before {
-    right: 100%;
-}
-h1:after {
-    left: 100%
-} */
 
 /* footer */
 footer{
