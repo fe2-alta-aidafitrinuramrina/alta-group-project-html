@@ -1,0 +1,110 @@
+/* NAVBAR */
+body{
+    width: 100%;
+
+}
+header{
+    background-color: white;
+    box-shadow: 0 0px 6px rgb(0 0 0 / 0.2);
+
+
+}
+.btn-contact{
+    background-color: #F47522;
+    border-radius: 30px;
+    height: 30px;
+    width: 120px;
+    color: white;
+    border: none;
+    margin-top: -5px;
+    font: normal normal  25px/8px 'Dongle', sans-serif;
+    letter-spacing: 1px;
+
+}
+.nav-menu{
+   margin-top: 1.7%;
+}
+.nav-item a{
+    font: normal normal  28px 'Dongle', sans-serif;
+    color:#19345E;
+}
+
+
+/* COntent Team */
+
+#content-team{
+    width: 100%;
+    height: auto;
+}
+.container-team{
+    width: 900px;
+    height: auto;
+    margin-top: 90px;
+    margin: 0 auto;
+}
+
+.container-team-title{
+    margin-top: 60px;
+    margin-bottom: 60px;
+    width: 310px;
+    transform: translate(600px, 10px);
+}
+
+.container-team-title h2{
+    color:#19345E;
+    display: flex;
+    flex-direction: row;
+}
+.container-team-title h2:before, h2:after{
+    content: "";
+    flex: 1 1;
+    border-bottom: 3px solid #F47522;
+    margin: auto;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 20px;
+  } 
+  .box-team{
+    width: 260px;
+    height: 340px;
+    position: absolute;
+    border: 6px solid #F47522;
+    z-index: 2;
+    margin-top: 15px;
+    margin-left:-20px ;
+    }
+
+    .team-name{
+        width: 250px; 
+    }
+
+    .job-name{
+        width: 250px;
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+
+    .p-univ{
+        font-weight: bold;
+        margin-left: 30px;
+        margin-top: -16px;
+        font-size: 14px;
+    }
+    .p-major{
+        margin-top: -16px;
+        margin-left: 30px;
+        font-size: 14px;
+    }
+
+    /* FOOter */
+    footer{
+        background-color: #19345E;
+        height: 100%;
+        align-items: center;
+        align-content: center;
+        color: white;
+        justify-content: center;
+    }
+    footer p{
+        color: white;
+    }
