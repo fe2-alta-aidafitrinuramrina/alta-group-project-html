@@ -54,10 +54,10 @@ header{
 }
 .banner p{
     font-family: 'Dongle', sans-serif;
-    font-size: 25px;
+    font-size: 30px;
     font-weight: normal;
     line-height: 20px;
-    color: #373e49;
+    color: #19345E;
 
 }
 
@@ -175,8 +175,19 @@ span, h1{
     z-index: 3;
     position: absolute;
     transform: translate(65%);
+}
 
-    
+.kataka h2{
+    font-family: Impact, Haettenschweiler, ;
+    font-size: 45px;
+}
+.kataka p{
+    font-weight: lighter;
+    font-family: 'Dongle', sans-serif;
+    line-height: 20px;
+    font-size: 24px;
+    letter-spacing: 0.5px
+    ;
 }
 
 /* MEET OUR TEAM */
