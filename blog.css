@@ -60,15 +60,14 @@ header{
     margin-top: -5px;
     font: normal normal  25px/8px 'Dongle', sans-serif;
     letter-spacing: 1px;
+
 }
 .nav-menu{
-    margin-top: 1.7%;
+   margin-top: 1.7%;
 }
-.nav-menu a{
-    text-decoration: none;
+.nav-item a{
+    font: normal normal  28px 'Dongle', sans-serif;
     color:#19345E;
-    font: normal normal  25px/8px 'Dongle', sans-serif;
-    letter-spacing: 0px;
 }
 
 /* blog title */
